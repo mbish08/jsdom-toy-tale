@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 6
+      "likes": 5
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 9
+      "likes": 8
     },
     {
       "id": 3,
@@ -40,50 +40,13 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 1
+      "likes": 0
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -1
-    },
-    {
-      "newToy": {
-        "0": {},
-        "1": {},
-        "2": {}
-      },
-      "id": 9
-    },
-    {
-      "newToy": {
-        "0": {},
-        "1": {},
-        "2": {}
-      },
-      "id": 10
-    },
-    {
-      "newToy": {
-        "0": {},
-        "1": {},
-        "2": {}
-      },
-      "id": 11,
-      "likes": null
-    },
-    {
-      "name": "Mario",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51vQKZyecoL._AC_SX522_.jpg",
-      "likes": 3,
-      "id": 12
-    },
-    {
-      "name": "not mario",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/51vQKZyecoL._AC_SX522_.jpg",
-      "likes": 0,
-      "id": 13
+      "likes": -2
     }
   ]
 }
